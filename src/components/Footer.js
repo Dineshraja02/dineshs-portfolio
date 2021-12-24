@@ -57,10 +57,10 @@ export default function Footer() {
     <FooterStyle>
       <div className="container">
         <div className="footer__col1">
-          <h1 className="footer__col1__title">Ayan Khan</h1>
+          <h1 className="footer__col1__title">Dinesh</h1>
           <PText>
-            A freelance web designer and developer from Chittagong, Bangladesh.
-            I always make websites that have unique designs and also has a good
+            A web designer and developer from Tiruchirappalli, Tamilnadu. I
+            always make websites that have unique designs and also has a good
             performance rate.
           </PText>
         </div>
@@ -96,16 +96,16 @@ export default function Footer() {
             heading="Contact Info"
             links={[
               {
-                title: '+88012312',
+                title: '+918190952887',
                 path: 'tel:+88012312',
               },
               {
-                title: 'webcifar@gmail.com',
-                path: 'mailto:webcifar@gmail.com',
+                title: 'dineshraja0403@gmail.com',
+                path: 'mailto:dineshraja0403@gmail.com',
               },
               {
-                title: 'GEC Circle, Chittagong, Bangladesh',
-                path: 'http://google.com/maps',
+                title: 'GEC Circle, Tiruchirappalli, Tamilnadu',
+                path: 'https://www.google.com/maps/place/Tiruchirappalli,+Tamil+Nadu/@10.8160054,78.6189869,12z/data=!3m1!4b1!4m5!3m4!1s0x3baaf50ff2aecdad:0x6de02c3bedbbaea6!8m2!3d10.7904833!4d78.7046725',
               },
             ]}
           />
@@ -115,16 +115,12 @@ export default function Footer() {
             heading="social Links"
             links={[
               {
-                title: 'Facebook',
-                path: 'http://facebook.com',
+                title: 'Linkedin',
+                path: 'https://www.linkedin.com/in/dinesh-r-8367561b7',
               },
               {
-                title: 'Twitter',
-                path: 'http://twitter.com',
-              },
-              {
-                title: 'Instagram',
-                path: 'http://instagram.com',
+                title: 'Github',
+                path: 'https://github.com/AKRaavanan/',
               },
             ]}
           />
@@ -133,9 +129,9 @@ export default function Footer() {
       <div className="copyright">
         <div className="container">
           <PText>
-            © 2021 - Ayan Khan | Designed By{' '}
-            <a target="_blank" rel="noreferrer" href="http://webcifar.com">
-              web cifar
+            © 2021 - Dinesh | Designed By{' '}
+            <a rel="noreferrer" href="/">
+              Dinesh
             </a>{' '}
           </PText>
         </div>
