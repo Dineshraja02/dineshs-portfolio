@@ -103,6 +103,8 @@ export default function About() {
               <a
                 href="https://drive.google.com/file/d/1FWk7sqgaQIlhYYlNPZglGBsQiZCMZ08n/view?usp=sharing"
                 className="cvDownload"
+                target="_blank"
+                rel="noreferrer"
               >
                 DownLoad CV
               </a>
