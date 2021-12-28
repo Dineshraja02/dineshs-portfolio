@@ -97,7 +97,7 @@ export default function Footer() {
             links={[
               {
                 title: '+918190952887',
-                path: 'tel:+88012312',
+                path: 'tel:+918190952887',
               },
               {
                 title: 'dineshraja0403@gmail.com',
