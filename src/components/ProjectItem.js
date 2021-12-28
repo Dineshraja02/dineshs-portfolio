@@ -29,8 +29,15 @@ const ProjectItemStyles = styled.div`
     margin-top: 1rem;
   }
   .projectItem__link {
-    font-size: 1.9rem;
-    color: crimson;
+    font-size: 1.3rem;
+    color: var(--deep-dark);
+    font-width: bold;
+    background-color: var(--gray-1);
+    padding: 10px;
+    justify-content: center;
+    margin-top: 3px;
+    text-align: center;
+    border-radius: 0.5rem;
   }
   @media only screen and (max-width: 768px) {
     .projectItem__img {

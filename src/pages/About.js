@@ -31,9 +31,13 @@ const AboutPageStyles = styled.div`
 
   .cvDownload {
     font-size: 20px;
-    color: crimson;
+    color: var(--deep-dark);
     font-weight: bold;
+    padding: 7px;
+    background-color: var(--gray-1);
+    border-radius: 5px;
   }
+
   .about__heading {
     font-size: 3.6rem;
     margin-bottom: 3rem;
