@@ -112,7 +112,7 @@ export default function About() {
                 target="_blank"
                 rel="noreferrer"
               >
-                DownLoad CV
+                Download CV
               </a>
             </div>
           </div>
