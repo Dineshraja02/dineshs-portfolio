@@ -90,6 +90,7 @@ export default function Projects() {
                 desc={item.desc}
                 img={item.img}
                 link={item.link}
+                github={item.github}
               />
             ))}
           </div>

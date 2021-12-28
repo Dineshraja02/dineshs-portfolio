@@ -28,6 +28,10 @@ const ProjectItemStyles = styled.div`
     font-family: 'RobotoMono Regular';
     margin-top: 1rem;
   }
+  .projectItem__link {
+    font-size: 2rem;
+    color: crimson;
+  }
   @media only screen and (max-width: 768px) {
     .projectItem__img {
       height: 350px;
@@ -40,6 +44,7 @@ export default function ProjectItem({
   title = 'Project Name',
   desc = 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
   link = '',
+  github = '',
 }) {
   return (
     <ProjectItemStyles>
@@ -56,6 +61,12 @@ export default function ProjectItem({
           <h3 className="projectItem__title">{title}</h3>
         </a>
         <p className="projectItem__desc">{desc}</p>
+        <a target="_blank" href={link} rel="noreferrer">
+          <h3 className="projectItem__link">Deployment Link</h3>
+        </a>{' '}
+        <a target="_blank" href={github} rel="noreferrer">
+          <h3 className="projectItem__link">GitHub Link</h3>
+        </a>
       </div>
     </ProjectItemStyles>
   );

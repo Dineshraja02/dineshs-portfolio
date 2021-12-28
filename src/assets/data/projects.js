@@ -15,6 +15,7 @@ const projects = [
     desc: 'Connect with friends and the world around you on Together.',
     img: SocialImg,
     link: 'https://together-social-app.netlify.app/',
+    github: 'https://github.com/AKRaavanan/Social-Media-UI',
   },
   {
     id: uuidv4(),
@@ -22,6 +23,7 @@ const projects = [
     desc: 'Now You can create a potfolio within a minute.',
     img: PortfolioImg,
     link: 'https://dynamic-portfolio-creater.netlify.app/',
+    github: 'https://github.com/AKRaavanan/Dynamic-Portfolio',
   },
   {
     id: uuidv4(),
@@ -29,6 +31,7 @@ const projects = [
     desc: 'No need of calculator Enter the credentials and see your EMI table',
     img: EMIImg,
     link: 'https://emi-calcu.netlify.app/emicalc',
+    github: 'https://github.com/AKRaavanan/emi-calculator',
   },
   {
     id: uuidv4(),
@@ -36,6 +39,7 @@ const projects = [
     link: 'https://web-scrapping.netlify.app/',
     desc: 'Compare Your favorite mobile price in place',
     img: Webscrap,
+    github: 'https://github.com/AKRaavanan/webscraping-frontend',
   },
   {
     id: uuidv4(),
@@ -43,6 +47,7 @@ const projects = [
     img: Whatsapp,
     link: 'https://texter-clone.netlify.app/',
     desc: "You'll get fast, simple,secure messaging",
+    github: 'https://github.com/AKRaavanan/Whatsapp-Frontend',
   },
   {
     id: uuidv4(),
@@ -50,6 +55,7 @@ const projects = [
     img: MusicPlayer,
     link: ' https://music-app-react-ak.netlify.app/',
     desc: 'Just realx and Enjoy the Music',
+    github: 'https://github.com/AKRaavanan/Music-App-React',
   },
   {
     id: uuidv4(),
@@ -57,6 +63,7 @@ const projects = [
     img: Anime,
     link: 'https://chinese-anime.netlify.app/',
     desc: 'Search your favorite anime series.',
+    github: 'https://github.com/AKRaavanan/Hackathan',
   },
   {
     id: uuidv4(),
@@ -64,6 +71,7 @@ const projects = [
     img: Loads,
     link: 'https://loads.netlify.app/',
     desc: 'Book your shifting with in a minute',
+    github: 'https://github.com/AKRaavanan/Loads',
   },
 ];
 

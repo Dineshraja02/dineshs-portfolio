@@ -31,6 +31,8 @@ const AboutPageStyles = styled.div`
 
   .cvDownload {
     font-size: 20px;
+    color: crimson;
+    font-weight: bold;
   }
   .about__heading {
     font-size: 3.6rem;
@@ -101,7 +103,7 @@ export default function About() {
                 </PText>
               </div>
               <a
-                href="https://drive.google.com/file/d/1FWk7sqgaQIlhYYlNPZglGBsQiZCMZ08n/view?usp=sharing"
+                href="https://drive.google.com/file/d/1Je4BIHCZ_Pxs71zkCi3HGS4qxVLlMH9b/view?usp=sharing"
                 className="cvDownload"
                 target="_blank"
                 rel="noreferrer"
