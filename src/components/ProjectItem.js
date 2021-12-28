@@ -29,7 +29,7 @@ const ProjectItemStyles = styled.div`
     margin-top: 1rem;
   }
   .projectItem__link {
-    font-size: 2rem;
+    font-size: 1.9rem;
     color: crimson;
   }
   @media only screen and (max-width: 768px) {
@@ -61,11 +61,12 @@ export default function ProjectItem({
           <h3 className="projectItem__title">{title}</h3>
         </a>
         <p className="projectItem__desc">{desc}</p>
+        <br />
         <a target="_blank" href={link} rel="noreferrer">
-          <h3 className="projectItem__link">Deployment Link</h3>
-        </a>{' '}
+          <h3 className="projectItem__link">DEPLOYED SITE</h3>
+        </a>
         <a target="_blank" href={github} rel="noreferrer">
-          <h3 className="projectItem__link">GitHub Link</h3>
+          <h4 className="projectItem__link">SOURCE CODE</h4>
         </a>
       </div>
     </ProjectItemStyles>
