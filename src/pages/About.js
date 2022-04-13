@@ -170,7 +170,7 @@ export default function About() {
               />
               <AboutInfoItem
                 title="2022-Till now"
-                items={['Full stack developer in Brugu Software Solutions']}
+                items={['Jr Software Developer in Brugu Software Solutions']}
               />
             </div>
           </div>
