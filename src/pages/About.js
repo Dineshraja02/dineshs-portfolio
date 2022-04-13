@@ -107,7 +107,7 @@ export default function About() {
                 </PText>
               </div>
               <a
-                href="https://drive.google.com/file/d/1Je4BIHCZ_Pxs71zkCi3HGS4qxVLlMH9b/view?usp=sharing"
+                href="https://drive.google.com/file/d/1LYSGVazCAllSf8sW-wMxFgdXWUuUuzW0/view?usp=drivesdk"
                 className="cvDownload"
                 target="_blank"
                 rel="noreferrer"
