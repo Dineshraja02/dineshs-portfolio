@@ -152,14 +152,25 @@ export default function About() {
             <div className="about__info__item">
               <h1 className="about__info__heading">Experiences</h1>
 
-              <AboutInfoItem title="2018-2019" items={['Felting Supervisor']} />
+              <AboutInfoItem
+                title="2018-2019"
+                items={['Felting Supervisor in Eltex Super Casting']}
+              />
               <AboutInfoItem
                 title="2019-2020"
-                items={['Junior Development Engineer ']}
+                items={['Junior Development Engineer in Veejei Automation']}
               />
               <AboutInfoItem
                 title="2020-2021"
-                items={['AR Voicecall Executive']}
+                items={['AR Voicecall Executive in Alonzo Infotech']}
+              />
+              <AboutInfoItem
+                title="2021-2022"
+                items={['Full stack developer in Primates development Ltd']}
+              />
+              <AboutInfoItem
+                title="2022-Till now"
+                items={['Full stack developer in Brugu Software Solutions']}
               />
             </div>
           </div>
