@@ -10,6 +10,7 @@ import Loads from '../images/Loads.png';
 import Crypco from '../images/crypco.png';
 import Presale from '../images/Presale.png';
 import Marketing from '../images/Marketing.png';
+import Railway from '../images/Railway.png';
 
 const projects = [
   {
@@ -35,6 +36,14 @@ const projects = [
     img: Presale,
     link: 'https://winwincoin.brugu.io/',
     github: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Railway Reservation app',
+    desc: 'Enjoy Your travel with our Bookings',
+    img: Railway,
+    link: 'https://railway-reserve.netlify.app/',
+    github: 'https://github.com/AKRaavanan/reservation-ui',
   },
   {
     id: uuidv4(),
