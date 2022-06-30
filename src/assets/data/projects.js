@@ -6,37 +6,10 @@ import Webscrap from '../images/Webscrap.png';
 import MusicPlayer from '../images/Musicplayer.png';
 import Anime from '../images/Anime.png';
 import Whatsapp from '../images/Whatsapp.png';
-// import Loads from '../images/Loads.png';
-// import Crypco from '../images/crypco.png';
-// import Presale from '../images/Presale.png';
-// import Marketing from '../images/Marketing.png';
+import Loads from '../images/Loads.png';
 import Railway from '../images/Railway.png';
 
 const projects = [
-//   {
-//     id: uuidv4(),
-//     name: 'Crypco',
-//     desc: 'Adding there own crypto currencies as a public figure',
-//     img: Crypco,
-//     link: 'https://crypco.brugu.finance',
-//     github: '',
-//   },
-//   {
-//     id: uuidv4(),
-//     name: 'Winwincoins Marketing',
-//     desc: 'Crypto currency marketing website for presale',
-//     img: Marketing,
-//     link: 'https://winwincoins.netlify.app/',
-//     github: '',
-//   },
-//   {
-//     id: uuidv4(),
-//     name: 'Winwincoins',
-//     desc: 'Presale of winwincoins crypto currency',
-//     img: Presale,
-//     link: 'https://winwincoin.brugu.io/',
-//     github: '',
-//   },
   {
     id: uuidv4(),
     name: 'Railway Reservation app',
