@@ -6,10 +6,10 @@ import Webscrap from '../images/Webscrap.png';
 import MusicPlayer from '../images/Musicplayer.png';
 import Anime from '../images/Anime.png';
 import Whatsapp from '../images/Whatsapp.png';
-import Loads from '../images/Loads.png';
-import Crypco from '../images/crypco.png';
-import Presale from '../images/Presale.png';
-import Marketing from '../images/Marketing.png';
+// import Loads from '../images/Loads.png';
+// import Crypco from '../images/crypco.png';
+// import Presale from '../images/Presale.png';
+// import Marketing from '../images/Marketing.png';
 import Railway from '../images/Railway.png';
 
 const projects = [
