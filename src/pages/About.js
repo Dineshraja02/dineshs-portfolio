@@ -162,7 +162,7 @@ export default function About() {
               />
               <AboutInfoItem
                 title="2020-2021"
-                items={['AR Voicecall Executive in Alonzo Infotech']}
+                items={['Freelancing Frontend Developer']}
               />
               <AboutInfoItem
                 title="2021-2022"
