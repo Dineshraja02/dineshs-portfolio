@@ -120,7 +120,7 @@ export default function Footer() {
               },
               {
                 title: 'Github',
-                path: 'https://github.com/AKRaavanan/',
+                path: 'https://github.com/Dineshraja02',
               },
             ]}
           />

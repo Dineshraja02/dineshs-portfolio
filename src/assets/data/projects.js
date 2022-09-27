@@ -8,6 +8,11 @@ import Anime from '../images/Anime.png';
 import Whatsapp from '../images/Whatsapp.png';
 import Loads from '../images/Loads.png';
 import Railway from '../images/Railway.png';
+import Crypco from '../images/CRYPCO.png';
+import GRA from '../images/GRA.png';
+import MGR from '../images/MGR.png';
+import RGCA from '../images/RGCA.png';
+import Winwincoins from '../images/winwincoins.png';
 
 const projects = [
   {
@@ -41,6 +46,46 @@ const projects = [
     img: EMIImg,
     link: 'https://emi-calcu.netlify.app/emicalc',
     github: 'https://github.com/AKRaavanan/emi-calculator',
+  },
+  {
+    id: uuidv4(),
+    name: 'Crypco App',
+    desc: 'Crypto currency detail app',
+    img: Crypco,
+    link: 'https://crypco.brugu.finance/',
+    github: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Grand Race Auto',
+    desc: 'Race betting app',
+    img: GRA,
+    link: 'https://www.grademo.brugu.io/',
+    github: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Meta Grand Race',
+    desc: 'Enjoy Your travel with our Bookings',
+    img: MGR,
+    link: 'https://metagrandrace.netlify.app/',
+    github: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Aquaculture App',
+    desc: 'Aquaculture store mangement CRM APP',
+    img: RGCA,
+    link: 'https://rgca-dev.brugu.io/',
+    github: '',
+  },
+  {
+    id: uuidv4(),
+    name: 'Winwincoins app',
+    desc: 'Crypto currency presale app',
+    img: Winwincoins,
+    link: 'https://www.winwincoins.com/',
+    github: '',
   },
   {
     id: uuidv4(),

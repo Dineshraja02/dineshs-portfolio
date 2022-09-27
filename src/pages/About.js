@@ -107,7 +107,7 @@ export default function About() {
                 </PText>
               </div>
               <a
-                href="https://drive.google.com/file/d/1q2Y4MDhA5wfutekTKg91XECrfpoiFZ_J/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/10HEEdzCpxmIS_G4OypbxoZ_MvpRjwDA3/view"
                 className="cvDownload"
                 target="_blank"
                 rel="noreferrer"
@@ -138,11 +138,11 @@ export default function About() {
 
               <AboutInfoItem
                 title="FrontEnd"
-                items={['HTML', 'CSS', 'JavaScript', 'REACT']}
+                items={['HTML', 'CSS', 'JavaScript', 'REACT', 'Nextjs']}
               />
               <AboutInfoItem
                 title="BackEnd"
-                items={['NodeJs', 'Express', 'MongoDB']}
+                items={['NodeJs', 'Express', 'MongoDB', 'MYSQL']}
               />
               <AboutInfoItem
                 title="Apps"
@@ -169,8 +169,12 @@ export default function About() {
                 items={['Full stack developer in Primates development Ltd']}
               />
               <AboutInfoItem
+                title="2022-2022"
+                items={['Team lead and Software Developer in Gaipp Pvt Ltd']}
+              />
+              <AboutInfoItem
                 title="2022-Till now"
-                items={['Jr Software Developer in Gaipp Pvt Ltd']}
+                items={['Full Stack Developer in Alpharive Tech Pvt Ltd']}
               />
             </div>
           </div>
